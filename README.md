@@ -14,3 +14,4 @@ En el reporte tecnico se da una explicacion detallada de la metodologia usada, l
 ## Integrantes:
 - Jhony Steven Aristizabal Serna: jsaristizabalse@unal.edu.co
 - David Gil Rua : dgilr@unal.edu.co
+- Rafael Eduardo Rodriguez Muñoz: rerodriguezmun@unal.edu.co
